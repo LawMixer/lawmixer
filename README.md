@@ -1,4 +1,4 @@
-Hi there 👋! I'm LawMixer, a 19-year-old software engineer doing full-time back-end development & cybersecurity.  
+Hi there 👋! I'm LawMixer, a 20-year-old software engineer doing full-time back-end development & cybersecurity.  
 
 Most people know me (as a contributor, staff, or project lead) from:
 [Orosius Laboratories](https://usrc.orosiuslabs.com/), the group behind Project: Ethos, the game to craft an immersive 2000's themed research facility that transports you to a world of scientific exploration. <br>
